@@ -1,0 +1,128 @@
+/*****************************************************************NAVBAR*************************************************************************/
+body{
+    background-color: rgb(44, 43, 43);
+}
+.navbar button{
+    width: 130px;
+    height: 40px;
+    border: 3px;
+    border-radius: 4px;
+    background-color: rgb(151, 255, 119);
+
+}
+.navbar{
+    float: right;
+    margin-top: 20px;
+    margin-right: 100px
+    
+   
+}
+.navbar a{
+    padding-right: 20px;
+    color: white;
+    text-decoration: none;
+}
+
+.dokuznokta img{
+    height: 30px;
+    width: 30px;
+    
+}
+#idd{
+    padding-right: 80px;
+}
+.dokuznokta{
+    
+    position: absolute;
+
+    left: 1600px;
+    top: 31px;
+
+    z-index: +1;
+}
+
+.googlelogo img{
+    width: 277px;
+    padding-top: 250px;
+    padding-left: 800px;
+    padding-bottom: 30px
+    }
+    .googlelogo input{
+        margin-left: 639px;
+        width: 600px;
+        height: 47px;
+        border : 2px rgb(151, 255, 119);
+        border-style: solid;
+        border-radius: 30px;
+        background-color: rgb(44, 43, 43);
+        
+    }
+
+    .altbutton{
+        margin-left: 800px;
+        margin-top: 20px;
+        
+    }
+    .altbutton button{
+        height: 30px;
+        border-radius: 30px;
+        background-color: rgb(66, 65, 65);
+        border-style: solid;
+        border-color: rgb(151, 255, 119);
+        
+    }
+
+    .mik img{
+        height: 25px;
+        width: 15px;
+        position: absolute;
+
+    left: 1210px;
+    top: 396px;
+
+    z-index: +1;
+
+    }
+
+    .klavye img{
+        height: 35px;
+        
+        position: absolute;
+
+    left: 1160px;
+    top: 390px;
+
+    z-index: +1;
+
+    }
+
+    .büyüt img{
+        height: 25px;
+        
+        position: absolute;
+
+    left: 670px;
+    top: 396px;
+
+    z-index: +1;
+
+    }
+
+    .TURKEY P{
+        height: 50px;
+        width: 2000px;
+        background-color: rgb(36, 35, 35);
+        font-family:Arial, Helvetica, sans-serif;
+        word-spacing: 50px;
+        position: absolute;
+
+    
+    top: 820px;
+
+    z-index: +1;
+    padding-top: 20px;
+    padding-left: 40px;
+        
+    }
+
+
